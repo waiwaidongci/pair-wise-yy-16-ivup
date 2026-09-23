@@ -13,3 +13,4 @@ playwright-report/
 .vscode/
 trajectory.jsonl
 trajectory.md.jsonl
+verify-shots/
